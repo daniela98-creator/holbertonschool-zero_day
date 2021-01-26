@@ -1,6 +1,2 @@
-# holbertonschool-zero_day
-# holbertonschool-zero_day
-# holbertonschool-zero_day
-# holbertonschool-zero_day
-# holbertonschool-zero_day
-# holbertonschool-zero_day
+# vagrant repo 
+*This file is mandatory in all Holberton School projects*
