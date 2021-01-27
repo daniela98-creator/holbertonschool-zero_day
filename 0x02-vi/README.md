@@ -1,0 +1,1 @@
+What are the command and insert modes, and how to switch from one to the other
